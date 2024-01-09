@@ -1,6 +1,6 @@
 # SpeechAgents: Human-Communication Simulation with Multi-Modal Multi-Agent Systems
 
-<a href='https://0nutation.github.io/SpeechAgents.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>  <a href=''><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> 
+<a href='https://0nutation.github.io/SpeechAgents.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>  <a href='https://arxiv.org/abs/2401.03945'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> 
 
 <p align="center">
     <img src="images/mas.png" width="60%"> <br>
