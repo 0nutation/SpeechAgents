@@ -12,7 +12,7 @@ SpeechAgents demos are shown in our [project page](https://0nutation.github.io/S
 
 <p align="center">
     <img src="images/trajectory.png" width="95%"> <br>
-    llustration of training and inference process of an individual agent in SpeechAgents.
+    illustration of training and inference process of an individual agent in SpeechAgents.
 </p>
 
 
